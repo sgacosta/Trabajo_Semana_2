@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Trabajo Curso 3 - Semana 2</string>
+
+
+
+     <string name="main_nombre">Nombre completo</string>
+    <string name="main_telefono">Teléfono</string>
+    <string name="main_fecha_nacimiento">Fecha Nacimiento</string>
+    <string name="main_email">Email</string>
+    <string name="main_descripcion">Descripción Contacto</string>
+    <string name="main_btn_siguiente">Siguiente</string>
+    <string name="title_activity_main2">Confirmar Datos</string>
+    <string name="btn_editar_datos">Editar Datos</string>
+    <string name="pNombre">pNombre</string>
+    <string name="pTelefono">pTelefono</string>
+    <string name="pEmail">pEmail</string>
+    <string name="pDescripcion">pDescripcion</string>
+    <string name="pFechaNacimiento">pFechaNacimiento</string>
+
+</resources>
